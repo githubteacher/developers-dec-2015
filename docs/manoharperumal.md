@@ -3,4 +3,4 @@
 - **Name:** GitHub ManoharPerumal
 - **Occupation:** Student
 - **Location:** Edina, MN
-- **Day:** Today
+- **Day:** Dec 14 2015
