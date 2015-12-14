@@ -1,0 +1,2 @@
+* Name: coyote
+* Location: MN
