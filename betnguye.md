@@ -2,4 +2,4 @@
 
 * Name: @betnguye
 * Real name: Betty Boop
-* Location: Boxborough, MA
+* Location: Boxborough, MA - rainy now
