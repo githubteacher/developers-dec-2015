@@ -1,4 +1,4 @@
 # Edwhitakerdc
-* Name: @edwhitakerdc
-* Real Name: Ed
-* Location: Washington DC Metro
+* **Name**: @edwhitakerdc
+* **Real Name**: Ed
+* **Location**: Washington DC Metro
