@@ -1,2 +1,2 @@
 * Name: elliotmoore
-* Location: at home
+* Location: at home - GMT
