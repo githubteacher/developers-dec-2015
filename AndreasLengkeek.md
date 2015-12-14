@@ -1,4 +1,4 @@
 # Andreas Lengkeek
 
-* Name: @AndreasLengkeek
+* **Name:** @AndreasLengkeek
 * Location: Sydney, Australia
