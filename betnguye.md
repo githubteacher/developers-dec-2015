@@ -1,5 +1,5 @@
 # Betnguye
 
 * Name: @betnguye
-* Real name: Betty
+* Real name: Betty Boop
 * Location: Boxborough, MA
