@@ -1,3 +1,3 @@
 # fcsotim
-* Name: @fcsotim
-* Real name: Unsurprisingly, Tim.
+**Name:** @fcsotim
+**Real name:** Unsurprisingly, Tim.
