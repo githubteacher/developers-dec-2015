@@ -1,5 +1,5 @@
 # type list
 
-test
+Located: near Denver
 
-it's odd to respond to my own comment about not having a comment
+Temp: Near freezing
