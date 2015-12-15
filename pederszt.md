@@ -6,4 +6,3 @@
 * Some additional content in the file.
 * Breakfast
 * 2x speed boost
-* Worst item ever
