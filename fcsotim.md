@@ -1,4 +1,4 @@
-# Tim
+# Hello, my name is Tim
 **Name:** @fcsotim
 **Real name:** Unsurprisingly, Tim.
 **Location:** Columbus, OH
