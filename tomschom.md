@@ -1,4 +1,4 @@
-# tomschom
+# Force conflict for tomschom Tom Schomburg
 
 * Name: @tomschom
 * Real name: Tom S
