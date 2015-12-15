@@ -1,4 +1,4 @@
-# tomschom
+# Hello my name is tomschom
 
 * Name: @tomschom
 * Real name: Tom S
