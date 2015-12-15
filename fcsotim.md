@@ -2,3 +2,4 @@
 **Name:** @fcsotim
 **Real name:** Unsurprisingly, Tim.
 **Location:** Columbus, OH
+**Breakfast:** Blueberry bagel
