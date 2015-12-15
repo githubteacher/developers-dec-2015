@@ -1,5 +1,7 @@
+# Heloo conflict
 # GitHub Student
 
-* Name: @rgargdiscovery
-* Real name: Rajni
-* Location: US - its big
+* **Name:** @rgargdiscovery
+* **Real name:** Rajni Garg
+* **Location:** US - its big
+* **Breakfast:** Oatmeal
