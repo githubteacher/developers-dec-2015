@@ -1,4 +1,4 @@
-# Joshua Wehner
+# Hello, my name is Joshua Wehner
 
 * **Name:** @githubstudent
 * **Real name:** Joshua Wehner
