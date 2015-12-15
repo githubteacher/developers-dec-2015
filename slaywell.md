@@ -1,6 +1,9 @@
 # Slaywell
 
 * Name: @Slaywell
-* Location: London
+* Location: Londonsd
 * Local time: 18:36pm
-* Dinner time: ok
+* Dinner time: tomorrow
+* Markdown plugin
+* Whole file
+
