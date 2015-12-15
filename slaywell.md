@@ -3,6 +3,6 @@
 * Name: @Slaywell
 * Location: Londonsd
 * Local time: 18:36pm
-* Dinner time: true
+* Dinner time: tomorrow
 * Markdown plugin
 * Whole file
