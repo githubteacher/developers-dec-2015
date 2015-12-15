@@ -1,4 +1,4 @@
-# Force conflict for tomschom Tom Schomburg
+# Hello my name is Tom Schomburg
 
 * Name: @tomschom
 * Real name: Tom S
